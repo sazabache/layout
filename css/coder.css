@@ -1,0 +1,68 @@
+.container{
+		border: 3px solid #9B9B9B;
+		width: 1100px;
+		height: 1750px;
+		margin: auto;
+
+	
+}
+.perfil{
+	border-radius: 50%;
+    margin: auto;
+	padding: 20px 440px;
+       
+}
+
+
+p{
+	text-align: center;
+
+}
+.title{
+	font-size: 65px;
+	margin: -5px 0px 15px 0px;
+	
+
+}
+.paragraph{
+	font-size: 2.1em;
+	padding: 8px 50px;
+}
+
+h1{
+	font-size: 50px;
+	padding-left: 30px;
+}
+
+.caja{
+	height: 60px;
+	background-color: #9B9B9B;
+	margin: 50px;
+	text-align: left;
+	padding-top: 25px;
+	padding-left: 25px;
+	font-size: 30px;
+	color: white;
+}
+.html{
+	width: 850px;
+}
+
+.css{
+	width: 550px;
+}
+.javascript{
+	width: 200px;
+}
+
+li{
+	list-style: none;
+	margin: 10px 20px;
+	float: left;
+}
+
+.p5{
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+}

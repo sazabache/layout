@@ -1,0 +1,74 @@
+/* Ingresa tu css aqui */
+.container{
+	text-align: center;
+	margin: auto;
+}
+.logo{
+	margin: auto;
+}
+.menu{
+	margin: auto;
+}	
+nav{
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	display: inline-block;
+	font-size: 1.5em;
+}
+li{
+	display: inline-block;
+	list-style: none;
+	margin: 10px
+}
+.grupal{
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+
+p{
+	font-size: 2em;
+	text-align: center;
+}
+
+.linea{
+	width: 100px;
+	height: 4px;
+	background-color: black;
+
+}
+.contenedor{
+	width: 1050px;
+	height: 800px;
+	margin: auto;
+}
+.dentro{
+	position: relative;
+	bottom: 35px;
+	left: 160px;
+	color: white;
+}
+
+.li{
+	float: left;
+	list-style: none;
+	margin: 10px 15px;
+	position: relative;
+}
+
+.gris{
+	background-color: #9B9B9B;
+	margin: auto;
+}
+
+.overlay{
+	top: 0;
+	left: 0;
+	position: absolute;
+	background-color: rgba(0,0,0,0.3);
+	width: 100%;
+	height: 300px;
+}
